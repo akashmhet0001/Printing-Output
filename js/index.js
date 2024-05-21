@@ -3,7 +3,6 @@ let a = 3;
 let b = 5;
 let c;
 
-
 console.log("a + b = " + (a + b) + "\n" +
       "a - b = " + (a - b) + "\n" +
       "a * b = " + (a * b) + "\n" +
